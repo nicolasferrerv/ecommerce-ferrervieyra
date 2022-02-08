@@ -1,0 +1,16 @@
+.NavBar {
+    display: flex;
+    background: transparent;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background: gray;
+}
+
+button {
+    background: none;
+}
+
+.logo {
+    height: 60px;
+}
